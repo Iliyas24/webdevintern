@@ -1,0 +1,1 @@
+Built an authentication website with registration and login pages and used bcrypt to handle password security. This project makes use of the MongoDB database. Worked on username and password verification. Sanitized user inputs as well before entering data into or reading from a database.
